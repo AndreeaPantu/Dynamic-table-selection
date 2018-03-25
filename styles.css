@@ -1,0 +1,21 @@
+select, table{
+  margin-bottom:20px;
+}
+
+table,td{
+  border: 1px solid black;
+  border-spacing:8px;
+}
+
+select{
+  margin-left:10px;
+  width:80px;
+  height: 20px;
+  size: fixed;
+}
+
+td{
+  width:30px;
+  height: 20px;
+  size: fixed;
+}
